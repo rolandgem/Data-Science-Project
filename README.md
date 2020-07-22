@@ -21,3 +21,12 @@ The trained models are saved as pickle files (.pkl). In total there are 3 traine
 These trained models can be loaded as decribed in the notebook and used to classify new data.
 
 ## Case Question 2: Pong
+
+
+The solution for the pong - option B problem is found in the notebook **pong.ipynb**.
+
+The trained reinforcement learning (RL) model is saved in a pickle file called **RL.pkl**.
+
+The trained model can be loaded as described in the notebook.
+
+**NB:** Running the notebook takes a long time.
